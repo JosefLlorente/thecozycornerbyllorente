@@ -164,8 +164,6 @@ https://thecozycornerbylastname.vercel.app/sitemap.xml
 * Keep URLs simple and readable (`/books`, `/about`).
 * Submit sitemap.xml to GSC.
 
-Here’s the **updated submission instructions** with the Google Search Console verification proof included:
-
 ---
 
 ## **Submission Requirements**
