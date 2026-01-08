@@ -2,6 +2,10 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { RootLayoutContent } from "./client-layout";
 
+<head>
+  <meta name="google-site-verification" content="wC6LYVUdInNmM8bVJHak82l0fMGlZaZQFbR-NwrtKDA" />
+</head>
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
